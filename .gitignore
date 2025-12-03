@@ -1,0 +1,6 @@
+# macOS metadata files
+._*
+
+# Data files
+*.csv
+*.zip
