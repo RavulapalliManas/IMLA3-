@@ -12,3 +12,6 @@ data/
 results_automated/
 
 *.pkl
+
+
+images/
