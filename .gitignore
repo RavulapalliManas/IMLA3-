@@ -3,4 +3,12 @@
 
 # Data files
 *.csv
+*.pkl
 *.zip
+
+# Data folder
+data/
+
+results_automated/
+
+*.pkl
